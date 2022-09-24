@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@VarunUpadhyay802 
-VarunUpadhyay802
-/
-about-me
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-about-me/pro.html
-@VarunUpadhyay802
-VarunUpadhyay802 Add files via upload
-Latest commit 7e099f2 13 minutes ago
- History
- 1 contributor
-87 lines (76 sloc)  2.12 KB
 
 <!DOCTYPE html>
 <!-- this plate tells browser what version of html that we are using -->
@@ -114,18 +86,5 @@ longer be available -->
 
 
 </html>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-about-me/pro.html at main · VarunUpadhyay802/about-me
+
+
