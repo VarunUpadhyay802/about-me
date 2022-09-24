@@ -1,1 +1,131 @@
-# about-me
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@VarunUpadhyay802 
+VarunUpadhyay802
+/
+about-me
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+about-me/pro.html
+@VarunUpadhyay802
+VarunUpadhyay802 Add files via upload
+Latest commit 7e099f2 13 minutes ago
+ History
+ 1 contributor
+87 lines (76 sloc)  2.12 KB
+
+<!DOCTYPE html>
+<!-- this plate tells browser what version of html that we are using -->
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title> Varun's personal website </title>
+</head>
+
+<body>
+  <!-- body ke andar type karna hai humein ,  -->
+
+  <table cellspacing="200">
+    <tr>
+      <td><img src="nm-modified.png" alt="h" width="450" height="450"></td>
+      <td>
+        <h1>Varun Upadhyay</h1>
+        <hr>
+        <p><em>I have started my web development journey on <strong>19/08/2002</strong></em></p>
+        <p>Hey! varun here , I am in my second year of college ,I am learning web development
+          now from a Angela yu course which I bought from udemy , so as in my beginner level
+          learning , I am making this website with pure html</p>
+        <hr>
+      </td>
+    </tr>
+  </table>
+
+  <!-- My image I have taken from suppose quora , so if the quora server goes down , then your image will no
+longer be available -->
+
+
+
+  <h3>Journey So far</h3>
+  <ul>
+    <li>Schools</li>
+    <li>Coaching</li>
+    <li>college</li>
+  </ul>
+  Now, I am just exploring the things (but at a very slow pace😥)
+  but surely in future , I will spice the things a little bit ,
+  <br>
+  <ul>
+    <li>So if you need any advice , you can contact me here <a href="contact.html">Reach_out</a></li>
+  </ul>
+  you can refer to my hobbies page from here - <a href="Hobbies.html">Hobbies</a>
+<hr>
+  <h3>Competitions participation</h3>
+  <table border="2">
+    <thead>
+      <tr>
+        <th>year</th>
+        <th>Experience</th>
+      </tr>
+    </thead>
+    <tbody>
+
+    </tbody>
+    <tfoot>
+
+    </tfoot>
+    <tr>
+      <td>2015</td>
+      <td>Badminton Tournament</td>
+    </tr>
+<table cellspacing="12" border="5">
+  <hr>
+  <h3>Rating my Sports</h3>
+      <th>Skill</th>
+      <th>Star</th>
+    </tbody>
+    <tr>
+      <td>Badminton</td>
+      <td>❤️❤️❤️❤️❤️❤️</td>
+    </tr>
+    <tr>
+      <td>Table tennis</td>
+      <td>❤️❤️❤️</td>
+    </tr>
+    <tr>
+      <td>Basketball</td>
+      <td>❤️</td>
+  </tr>
+</table>
+</body>
+
+
+</html>
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+about-me/pro.html at main · VarunUpadhyay802/about-me
